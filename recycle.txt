@@ -1,0 +1,16 @@
+
+		<h3>
+			<a href="https://de.statista.com/statistik/daten/studie/1064910/umfrage/entwicklung-des-bruttonationaleinkommen-je-einwohner-weimarer-republik/" style="float:right">
+				<figure style="display: inline-block; vertical-align: middle;">
+					<img src="img/Bruttonationaleinkommen.png" width="1000" height="743" style="float:right">
+					<figcaption style="float:right; text-align: justify">
+						 Quelle: Statista.de
+					</figcaption>
+				</figure>
+			</a>
+			Wie in der Grafik rechts zu sehen ist, gabe es zwischen 1925 und 1929 ein deutliches Wachstum des Bruttonationaleinkommens. Es handelt sich dabei um ein Wachstum von über 20%/ 5% 
+			<a href="https://de.statista.com/statistik/daten/studie/1064910/umfrage/entwicklung-des-bruttonationaleinkommen-je-einwohner-weimarer-republik/">
+				[ 1
+			</a>
+			] pro Jahr. 
+		</h3>
