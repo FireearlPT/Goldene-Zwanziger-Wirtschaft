@@ -1,0 +1,6 @@
+Sehr geehrte Frau Eichberger,
+
+hier folgt einmal eine Erklärung meiner Abgabe. Im Ordner "img" sind sämtliche Bildquellen mit der jeweiligen Quelle abgespeichert. "style.css" speichert sämtliche stilistischen Merkmale, wie beispielsweise das Aussehen von Links und der Bilder. Jede Datei, die auf .html endet, speichert die jeweiligen Seiten. Es verbleiben auch einige verworfene Seiten, deren Entfernung aber etwas schwieriger ist, als man denken würde. Da sie der Funktionsweise nicht schaden, verbleiben sie trotzdem. "Quellen.txt" und "Quellen.py" dienen der einfacheren Verwaltung meines Literaturverzeichnisses. Bis auf "Quellen.py" können Sie sämtliche Dateien ausführen: .html in ihrem Browser, .txt und .css im Editor und .jpg und .png in der Fotoanzeige. Nur für "Quellen.py" müssten Sie einen Schulrechner verwenden, da auf diesen Python installiert ist, was für das Programm benötigt wird. Für den Endnutzer/ die Endnutzerin ist dieses Programm jedoch unwichtig, es formatiert lediglich meine Quellen für mich, was mir einiges an Schreibarbeit erspart. Das Programm habe ich aber selbst erstellt, fragen Sie im Zweifel Herrn Olbrich, der weiß, dass ich der einzige bin, der so programmiert.
+
+Mit freundlichen Grüßen
+Justin Schomaker
